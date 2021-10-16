@@ -24,7 +24,7 @@ public class Verificator {
     /**
      * We recommend use paste bin https://pastebin.com/
      */
-    public static final String HWID_URL = "https://pastebin.com/raw/TtZtS0jh";
+    public static final String HWID_URL = "https://pastebin.com/raw/gDtM86aS";
 
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {
